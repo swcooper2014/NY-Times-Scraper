@@ -16,7 +16,7 @@ How It Works
   
   Saved articles can be deleted by clicking the "Delete" button.
   
-  Check out the App here: https://nytimesmongoscraper.herokuapp.com/
+  Check out the App here: https://nytimesscraper2.herokuapp.com/
 
 Technologies Used
 
